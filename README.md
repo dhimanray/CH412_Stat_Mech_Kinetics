@@ -17,6 +17,10 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+**Rate Determining Step**
+<a target="_blank" href="https://colab.research.google.com/github/dhimanray/CH412_Stat_Mech_Kinetics/blob/main/Rate_Determining_Step.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 **Kinetic vs. Thermodynamic Control**
 <a target="_blank" href="https://colab.research.google.com/github/dhimanray/CH412_Stat_Mech_Kinetics/blob/main/Kinetic_vs_Themodynamic_Control.ipynb">
